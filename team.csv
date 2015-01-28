@@ -1,0 +1,248 @@
+Team Code,Name,Conference Code,State
+5,Akron,875,Ohio
+8,Alabama,911,Alabama
+9,UAB,24312,Alabama
+27,Appalachian State,818,North Carolina
+28,Arizona State,905,Arizona
+29,Arizona,905,Arizona
+30,Arkansas State,818,Arkansas
+31,Arkansas,911,Arkansas
+37,Auburn,911,Alabama
+47,Ball State,875,Indiana
+51,Baylor,25354,Texas
+66,Boise State,5486,Idaho
+67,Boston College,821,Massachusetts
+71,Bowling Green,875,Ohio
+77,BYU,99001,Utah
+86,Buffalo,875,New York
+96,Fresno State,5486,California
+107,California,905,California
+110,UCLA,905,California
+128,UCF,823,FLordia
+129,Central Michigan,875,Michigan
+140,Cincinnati,823,Ohio
+147,Clemson,821,South Carolina
+156,Colorado State,5486,Colorado
+157,Colorado,905,Colorado
+164,Connecticut,823,Connecticut
+193,Duke,821,North Carolina
+196,East Carolina,823,North Carolina
+204,Eastern Michigan,875,Michigan
+229,Florida Atlantic,24312,Florida
+231,Florida International,24312,Florida
+234,Florida State,821,Florida
+235,Florida,911,Florida
+257,Georgia,911,Georgia
+253,Georgia Southern,818,Georgia
+254,Georgia State,818,Georgia
+255,Georgia Tech,821,Georgia
+277,Hawai'i,5486,Hawai'i
+288,Houston,823,Texas
+295,Idaho,818,Idaho
+301,Illinois,827,Illinois
+306,Indiana,827,Indiana
+311,Iowa State,25354,Iowa
+312,Iowa,827,Iowa
+327,Kansas State,25354,Kansas
+328,Kansas,25354,Kansas
+331,Kent State,875,Ohio
+334,Kentucky,911,Kentucky
+365,LSU,911,Louisiana
+366,Louisiana Tech,24312,Louisiana
+367,Louisville,821,Kentucky
+388,Marshall,24312,West Virginia
+392,Maryland,827,Maryland
+400,Massachusetts,875,Massachusetts
+404,Memphis,823,Tennessee
+414,Miami (Ohio),875,Ohio
+415,Miami (Florida),821,Florida
+416,Michigan State,827,Michigan
+418,Michigan,827,Michigan
+419,Middle Tennessee,24312,Tennessee
+428,Minnesota,827,Minnesota
+430,Mississippi State,911,Mississippi
+433,Mississippi,911,Mississippi
+434,Missouri,911,Missouri
+457,North Carolina,821,North Carolina
+463,Nebraska,827,Nebraska
+465,UNLV,5486,Las Vegas
+466,Nevada,5486,Las Vegas
+472,New Mexico State,818,New Mexico
+473,New Mexico,5486,New Mexico
+490,North Carolina State,821,North Carolina
+497,North Texas,24312,Texas
+498,Louisiana-Monroe,818,Louisiana
+503,Northern Illinois,875,Illinois
+509,Northwestern,827,Illinois
+513,Notre Dame,99001,Indiana
+518,Ohio State,827,Ohio
+519,Ohio,875,Ohio
+521,Oklahoma State,25354,Oklahoma
+522,Oklahoma,25354,Oklahoma
+523,Old Dominion,24312,Virginia
+528,Oregon State,905,Oregon
+529,Oregon,905,Oregon
+539,Penn State,827,Pennsylvania
+545,Pittsburgh,821,Pennsylvania
+559,Purdue,827,Indiana
+574,Rice,24312,Texas
+587,Rutgers,827,New Jersey
+626,San Diego State,5486,California
+630,San Jose State,5486,California
+646,South Alabama,818,Alabama
+648,South Carolina,911,South Carolina
+651,South Florida,823,Flordia
+657,USC,905,California
+663,SMU,823,Texas
+664,Southern Mississippi,24312,Mississippi
+670,Texas State,818,Texas
+671,Louisiana-Lafayette,818,Louisiana
+674,Stanford,905,California
+688,Syracuse,821,New York
+690,Temple,823,Pennsylvania
+694,Tennessee,911,Tennessee
+697,Texas A&M,911,Texas
+698,TCU,25354,Texas
+700,Texas Tech,25354,Texas
+703,Texas,25354,Texas
+704,UTEP,24312,Texas
+706,UTSA,24312,Texas
+709,Toledo,875,Ohio
+716,Troy,818,Alabama
+718,Tulane,823,Louisiana
+719,Tulsa,823,Oklahoma
+721,Air Force,5486,Colorado
+725,Army,99001,New York
+726,Navy,99001,Maryland
+731,Utah State,5486,Utah
+732,Utah,905,Utah
+736,Vanderbilt,911,Tennessee
+742,Virginia Tech,821,Virginia
+746,Virginia,821,Virginia
+749,Wake Forest,821,North Carolina
+754,Washington State,905,Washington
+756,Washington,905,Washington
+768,West Virginia,25354,West Virginia
+772,Western Kentucky,24312,Kentucky
+774,Western Michigan,875,Michigan
+796,Wisconsin,827,Wisconsin
+811,Wyoming,5486,Wyoming
+2,Abilene Christian,99005
+6,Alabama A&M,916
+7,Alabama St.,916
+14,Albany (N.Y.),846
+17,Alcorn St.,916
+43,Austin Peay,902
+48,Charleston So.,826
+61,Bethune-Cookman,876
+80,Brown,865
+81,Bryant,846
+83,Bucknell,838
+87,Butler,21451
+90,Cal Poly,825
+102,Sacramento State,825
+108,UC Davis,825
+115,Campbell,21451
+127,Central Conn. St.,846
+141,Citadel,912
+149,Coastal Carolina,826
+153,Colgate,838
+158,Columbia,865
+167,Cornell,865
+172,Dartmouth,865
+173,Davidson,21451
+175,Dayton,21451
+178,Delaware State,876
+180,Delaware,837
+189,Drake,21451
+194,Duquesne,846
+201,Eastern Illinois,902
+202,Eastern Kentucky,902
+207,Eastern Washington,825
+228,Florida A&M,876
+236,Fordham,838
+244,Furman,912
+251,Georgetown,838
+261,Grambling,916
+270,Hampton,876
+275,Harvard,865
+285,Holy Cross,838
+290,Howard,876
+294,Idaho State,825
+299,Illinois State,853
+305,Indiana State,853
+314,Jackson State,916
+315,Jacksonville State,902
+316,Jacksonville,21451
+317,James Madison,837
+342,Lafayette,838
+346,Lamar,914
+352,Lehigh,838
+355,Liberty,826
+380,Maine,837
+386,Marist,21451
+402,McNeese State,914
+432,Mississippi Valley State,916
+439,Monmouth,846
+440,Montana State,825
+441,Montana,825
+444,Morehead State,21451
+446,Morgan State,876
+454,Murray State,902
+469,New Hampshire,837
+483,Nicholls State,914
+485,Norfolk State,876
+488,North Carolina A&T,876
+489,N.C. Central,876
+493,North Dakota State,853
+494,North Dakota,825
+501,Northern Arizona,825
+502,Northern Colorado,825
+504,Northern Iowa,853
+508,Northwestern State,914
+540,Pennsylvania,865
+550,Portland State,825
+553,Prairie View A&M,916
+554,Princeton,865
+572,Rhode Island,837
+575,Richmond,837
+579,Robert Morris,846
+590,Sacred Heart,846
+600,St. Francis (Pa.),846
+624,Sam Houston State,914
+625,Samford,912
+627,San Diego,21451
+632,Savannah State,876
+647,South Carolina State,876
+649,South Dakota State,853
+650,South Dakota,853
+654,Southeast Missouri State,902
+655,Southeastern Louisiana,914
+659,Southern Illinois,853
+665,Southern University,916
+667,Southern Utah,825
+669,Missouri State,853
+676,Stephen F. Austin,914
+683,Stony Brook,826
+691,Tennessee State,902
+692,Tennessee Tech,902
+693,Chattanooga,912
+695,Tennessee-Martin,902
+699,Texas Southern,916
+711,Towson,837
+735,Valparaiso,21451
+739,Villanova,837
+741,Virginia Military,826
+748,Wagner,846
+758,Weber State,825
+769,Western Carolina,912
+771,Western Illinois,853
+786,William & Mary,837
+813,Yale,865
+817,Youngstown State,853
+1004,Central Arkansas,914
+1068,Elon,912
+1092,Gardner-Webb,826
+1320,Presbyterian,826
+2678,Ark.-Pine Bluff,916
+2915,Wofford,912
