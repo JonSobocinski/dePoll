@@ -22,17 +22,24 @@ public class Game implements Comparable<Game> {
 	public Game(String[] gameStat, NCAA ncaa) {
 
 		DateFormat formatter = new SimpleDateFormat("MM/dd/yyyy");
-		this.ncaa = ncaa;
+		this.ncaa = ncaa;	
 		try {
 			dateOfGame = formatter.parse(gameStat[0]);
 		}
 		catch (ParseException e) {
+			System.out.println(gameStat[0]);
 			System.out.println("INCORRECT DATE FORMAT!");
 			e.printStackTrace();
 
 		}
+		int visTeamScore = 0;
 		String visTeamName = gameStat[1].trim();
-		int visTeamScore = Integer.valueOf(gameStat[17].trim());
+		try {
+			visTeamScore = Integer.valueOf(gameStat[17].trim());
+		}
+		catch (Exception e) {
+			System.out.println("");
+		}
 		String homeTeamName = gameStat[18].trim();
 		int homeScore = Integer.valueOf(gameStat[34].trim());
 

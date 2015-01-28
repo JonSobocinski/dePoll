@@ -73,6 +73,7 @@ public class StatParser {
 					                file.getName()
 					                        + " is an invalid file. It does not meet the parsing format. Please delete this file from the directory, and try again",
 					                "File error", JOptionPane.ERROR_MESSAGE);
+					System.out.println("Error in Stat Parse");
 					System.exit(0);
 
 				}

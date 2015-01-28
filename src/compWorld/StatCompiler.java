@@ -762,14 +762,15 @@ public class StatCompiler {
 				return mv.getMO().getLoss12();
 
 		}
-		if (win == 13) {
+		if (win >= 13) {
 			if (winner)
 				return mv.getMO().getWin13();
 			else
 				return mv.getMO().getLoss13();
 
-		}
+		}	
 		else {
+			System.out.println("Error in getSosMult");
 			System.exit(-1);
 			return 0;
 		}

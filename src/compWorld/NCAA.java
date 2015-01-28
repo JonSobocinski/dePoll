@@ -191,7 +191,7 @@ public class NCAA {
 	}
 
 	public void parseStats() {
-	
+
 		String userDir = System.getProperty("user.home");
 		JFileChooser chooser = new JFileChooser(userDir + "/Desktop");
 
@@ -203,18 +203,22 @@ public class NCAA {
 
 			for (int i = 0; i < allFiles.length; i++) {
 				File newFile = allFiles[i];
-				try {
-					Scanner scanner = new Scanner(newFile);
-					scanner.nextLine();
-					while (scanner.hasNextLine()) {
-						Game game = new Game(scanner.nextLine().split(","), this);
-						gameHolder.add(game);
+				if (newFile.getAbsolutePath().contains(".csv")) {
+
+					try {
+						Scanner scanner = new Scanner(newFile);
+						scanner.nextLine();
+						while (scanner.hasNextLine()) {
+							Game game = new Game(scanner.nextLine().split(","), this);
+							gameHolder.add(game);
+						}
+						scanner.close();
 					}
-					scanner.close();
+					catch (FileNotFoundException e) {
+						e.printStackTrace();
+					}
 				}
-				catch (FileNotFoundException e) {
-					e.printStackTrace();
-				}
+
 			}
 
 		}

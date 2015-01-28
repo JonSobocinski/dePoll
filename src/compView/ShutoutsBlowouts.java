@@ -279,7 +279,7 @@ public class ShutoutsBlowouts extends JPanel {
 		panel_18.add(panel_21, BorderLayout.CENTER);
 		panel_21.setLayout(new GridLayout(14, 2, 0, 0));
 
-		JLabel lblNewLabel_6 = new JLabel("13 Win Team");
+		JLabel lblNewLabel_6 = new JLabel("13 Or More Win Team");
 		lblNewLabel_6.setHorizontalAlignment(SwingConstants.CENTER);
 		panel_21.add(lblNewLabel_6);
 
@@ -489,7 +489,7 @@ public class ShutoutsBlowouts extends JPanel {
 		panel_19.add(panel_22, BorderLayout.CENTER);
 		panel_22.setLayout(new GridLayout(14, 2, 0, 0));
 
-		JLabel label = new JLabel("13 Win Team");
+		JLabel label = new JLabel("13 Or More Win Team");
 		label.setHorizontalAlignment(SwingConstants.CENTER);
 		panel_22.add(label);
 
